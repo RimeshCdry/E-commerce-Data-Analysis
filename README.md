@@ -53,7 +53,7 @@ This project performs **Exploratory Data Analysis (EDA)** on the **SuperStore da
    pip install -r requirements.txt
    ```
 3. Open Jupyter Notebook and run the analysis:
-   bash```
+   ```bash
    python -m notebook
    ```
    
